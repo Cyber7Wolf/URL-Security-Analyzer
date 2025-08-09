@@ -14,3 +14,5 @@ A Python tool to detect malicious URLs with:
 \\\ash
 python url_checker.py
 \\\"
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
