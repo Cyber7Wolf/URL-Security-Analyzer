@@ -1,3 +1,4 @@
+HEAD
 # URL Security Analyzer 🔍🛡️
 
 A Python tool to detect and block malicious URLs with:
@@ -17,3 +18,7 @@ A Python tool to detect and block malicious URLs with:
 git clone https://github.com/Cyber7Wolf/URL-Security-Analyzer.git
 cd URL-Security-Analyzer
 pip install -r requirements.txt
+
+# URL-Security-Analyzer
+Python tool to analyze and block malicious URLs with VirusTotal integration
+3e815dbddad271ef4e33ac662a66684a6843a0e7
